@@ -5,7 +5,7 @@
 ![Image](https://github.com/user-attachments/assets/4e74643d-4ba9-4fa7-808f-173d3a678489)
 
 
-
+[![Download Paper](https://img.shields.io/badge/Paper-Download-blue)](https://github.com/hyokyunAn/VCR-Visor/blob/main/paper/VCR_visor_anonymous_sub.pdf)
 
 
 # VCR-Visor Dataset
